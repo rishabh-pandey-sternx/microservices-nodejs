@@ -1,0 +1,32 @@
+{
+  "name": "microservices-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "engines": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekrishabh/microservices-nodejs.git"
+  },
+  "license": "ISC",
+  "author": "GeekRishabh <geekrishabh@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/geekrishabh/microservices-nodejs/issues"
+  },
+  "homepage": "https://github.com/geekrishabh/microservices-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "express-jwt": "^5.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}

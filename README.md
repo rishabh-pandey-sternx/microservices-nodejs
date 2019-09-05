@@ -13,8 +13,6 @@ Clone the repository:
 git clone git@github.com:GeekRishabh/microservices-nodejs.git
 ```
 
-### Start the application 
-
 ## Development 
 
 • Docker
